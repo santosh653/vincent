@@ -1,3 +1,13 @@
+# Package             : vincent
+# Source Repo         : https://github.com/wrobstory/vincent
+# Travis Job Link     : 
+# Created travis.yml  : No
+# Maintainer          : Santosh Kulkarni <santoshkulkarni70@gmail.com>
+#
+# Script License      : Apache License, Version 2 or later
+arch:
+  - amd64
+  - ppc64le
 language: python
 python:
   - "2.7"
